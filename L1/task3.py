@@ -69,6 +69,10 @@ print("=== Result on Iris (test set) ===")
 print(f"LogisticRegression  accuracy={acc_lr:.3f}, train_time={logreg_train_time*1000:.1f} ms")
 print(f"MLPClassifier  accuracy={acc_mlp:.3f}, train_time={mlp_train_time*1000:.1f} ms")
 
+
+
+
+
 # --------------------------
 # Comments / comparison
 # --------------------------
